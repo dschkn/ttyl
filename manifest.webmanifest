@@ -1,0 +1,9 @@
+{
+  "name": "ttyl",
+  "short_name": "ttyl",
+  "description": "A quiet private feed-first messenger.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2"
+}
